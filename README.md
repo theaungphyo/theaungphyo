@@ -1,13 +1,6 @@
-[![committers.top badge](https://user-badge.committers.top/myanmar/devaungphyo.svg)](https://user-badge.committers.top/myanmar/devaungphyo)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aungphyoex&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aungphyoex&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-
-```yaml
-{
-  languages: [ Javascript, Typescript, Php, JavaSE ],
-  frontend:  [ ReactJS, NextJS, ReactNative, Redux, Flux, Expo ],
-  backend:   [ NodeJS, ExpressJS, NestJS, Laravel ],
-  database:  [ Mysql, Postgresql, MsSql Server, MongoDB, Redis ],
-  tools:     [ Prisma, TypeORM, Drizzle, Turborepo, Docker, Linux ],
-  design:    [ Figma ]
-}
-```
+###
