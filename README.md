@@ -1,7 +1,7 @@
 
 [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,ts,nodejs,bun,go)](https://aungphyo.dev)
 
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,reactnative,redux,nextjs,expo,zustand,threejs)](https://aungphyo.dev)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,expo,redux,zustand,threejs)](https://aungphyo.dev)
 
 [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=drizzle,typeorm,gorm,express,nestjs,mongodb,postgres)](https://aungphyo.dev)
 
