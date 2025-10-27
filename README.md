@@ -5,4 +5,9 @@
 
 [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=drizzle,typeorm,express,nestjs,mongodb,postgres)](https://aungphyo.dev)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=theaungphyo&locale=en&layout=compact&hide_title=true&langs_count=8&theme=dracula&hide_border=true)
+
+<div>
+  <a href="https://github.com/saturngod">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theaungphyo&count_private=true&theme=cobalt&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theaungphyo&layout=compact&langs_count=8&theme=cobalt"/>
+</div>
